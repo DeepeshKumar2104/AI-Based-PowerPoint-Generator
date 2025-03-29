@@ -1,0 +1,12 @@
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\bin\Debug\net9.0\AuthService.Core.deps.json
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\bin\Debug\net9.0\AuthService.Core.dll
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\bin\Debug\net9.0\AuthService.Core.pdb
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\AuthService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\AuthService.Core.AssemblyInfoInputs.cache
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\AuthService.Core.AssemblyInfo.cs
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\AuthService.Core.csproj.CoreCompileInputs.cache
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\AuthService.Core.sourcelink.json
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\AuthService.Core.dll
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\refint\AuthService.Core.dll
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\AuthService.Core.pdb
+D:\AI-Based-PowerPoint-Generator\Backend\AuthService\src\AuthService.Core\obj\Debug\net9.0\ref\AuthService.Core.dll
